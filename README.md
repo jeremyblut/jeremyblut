@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeremy
+- Hi, I’m Jeremy
 - I’m interested in 3D art an stuff
 - I’m currently learning c# and Unity
 - you can reach me on https://jeremy.toys
