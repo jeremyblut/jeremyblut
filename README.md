@@ -1,6 +1,5 @@
 - Hi, I’m Jeremy
-- I’m interested in 3D art an stuff
-- I’m currently learning c# and Unity
+- I’m interested in art, toys, and games
 - you can reach me on https://jeremy.toys
 
 <!---
